@@ -1,0 +1,21 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "19": "/img/panda_19.png",
+         "38": "/img/panda_38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "Pandamonimum"
+   },
+   "description": "All of the panda gifs you've ever wanted!",
+   "icons": {
+      "128": "/img/panda_128.png",
+      "16": "/img/panda_16.png",
+      "48": "/img/panda_48.png"
+   },
+   "manifest_version": 2,
+   "name": "Pandamonium",
+   "permissions": [ "tabs", "contextMenus" ],
+   "version": "0.0.1",
+   "author": "Jon Engelsman"
+}
