@@ -11,8 +11,8 @@ To install the extension in Chrome...
 <li>Go to chrome://extensions/</li>
 <li>Turn on Developer Mode</li> 
 <li>Load unpacked extensions...</li>
-<li>Navigate to the extension-redpandamonium_0.0.1 folder and select it</li>
+<li>Navigate to the extension-pandamonium_0.0.1 folder and select it</li>
 <li>...</li>
-<li>Bask in the tumbly cuteness of red pandas!</li>
+<li>Bask in the tumbly cuteness of pandas!</li>
 
 <img src="/images/pandamonium.png"/>
