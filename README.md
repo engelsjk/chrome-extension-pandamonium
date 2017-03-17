@@ -1,16 +1,10 @@
 # chrome-extension-redpandamonium
 
-![Alt text](/images/redpanda.png?raw=true "Red Pandamonium")
+<img src="/images/panda.png"/>
 
-Chrome extension for red panda giphy overload! 
+Chrome extension for panda giphy overload! 
 
-Based on the official Giphy for Chrome extension (v0.1.1.0): https://chrome.google.com/webstore/detail/giphy-for-chrome/jlleokkdhkflpmghiioglgmnminbekdi?hl=en
-
-Shamelessly edited as follows...
-<ul>
-<li>Modified init.js to hard-code giphy search >>> GiphySearch.search("red panda", 100, true);</li>
-<li>Added some custom red panda 8-bit images</li>
-</ul>
+Copied from my Red Pandamonium extension (https://github.com/engelsjk/chrome-extension-redpandamonium)
 
 To install the extension in Chrome...
 <ul>
@@ -21,4 +15,4 @@ To install the extension in Chrome...
 <li>...</li>
 <li>Bask in the tumbly cuteness of red pandas!</li>
 
-![Alt text](/images/redpandamonium.png?raw=true "Red Pandamonium")
+![Alt text](/images/pandamonium.png?raw=true "Pandamonium")
