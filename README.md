@@ -1,4 +1,4 @@
-# chrome-extension-redpandamonium
+# chrome-extension-pandamonium
 
 <img src="/images/panda.png"/>
 
@@ -14,5 +14,5 @@ To install the extension in Chrome...
 <li>Navigate to the extension-redpandamonium_0.0.1 folder and select it</li>
 <li>...</li>
 <li>Bask in the tumbly cuteness of red pandas!</li>
-
+<br>
 ![Alt text](/images/pandamonium.png?raw=true "Pandamonium")
